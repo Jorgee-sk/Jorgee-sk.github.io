@@ -11445,6 +11445,14 @@ html {
   width: 15rem;
 }
 
+.imgRedonda {
+  width:300px;
+  height:300px;
+  border-radius:150px;
+}
+
+
+
 @media (min-width: 992px) {
   .masthead {
     padding-top: calc(6rem + 104px);
